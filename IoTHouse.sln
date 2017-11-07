@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoTHouse", "IoTHouse\IoTHouse.csproj", "{076616DE-12B0-48A5-BFBF-B4C95A02705E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{076616DE-12B0-48A5-BFBF-B4C95A02705E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{076616DE-12B0-48A5-BFBF-B4C95A02705E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{076616DE-12B0-48A5-BFBF-B4C95A02705E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{076616DE-12B0-48A5-BFBF-B4C95A02705E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B66F62A-FF2F-4391-A4BB-27C1D84C1CD9}
+	EndGlobalSection
+EndGlobal

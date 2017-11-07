@@ -1,0 +1,11 @@
+c:\users\lukasz\documents\visual studio 2017\Projects\IoTHouse\IoTHouse\bin\Release\netcoreapp2.0\IoTHouse.deps.json
+c:\users\lukasz\documents\visual studio 2017\Projects\IoTHouse\IoTHouse\bin\Release\netcoreapp2.0\IoTHouse.runtimeconfig.json
+c:\users\lukasz\documents\visual studio 2017\Projects\IoTHouse\IoTHouse\bin\Release\netcoreapp2.0\IoTHouse.runtimeconfig.dev.json
+c:\users\lukasz\documents\visual studio 2017\Projects\IoTHouse\IoTHouse\bin\Release\netcoreapp2.0\IoTHouse.dll
+c:\users\lukasz\documents\visual studio 2017\Projects\IoTHouse\IoTHouse\bin\Release\netcoreapp2.0\IoTHouse.pdb
+c:\users\lukasz\documents\visual studio 2017\Projects\IoTHouse\IoTHouse\obj\Release\netcoreapp2.0\IoTHouse.csproj.CoreCompileInputs.cache
+c:\users\lukasz\documents\visual studio 2017\Projects\IoTHouse\IoTHouse\obj\Release\netcoreapp2.0\IoTHouse.AssemblyInfoInputs.cache
+c:\users\lukasz\documents\visual studio 2017\Projects\IoTHouse\IoTHouse\obj\Release\netcoreapp2.0\IoTHouse.AssemblyInfo.cs
+c:\users\lukasz\documents\visual studio 2017\Projects\IoTHouse\IoTHouse\obj\Release\netcoreapp2.0\IoTHouse.dll
+c:\users\lukasz\documents\visual studio 2017\Projects\IoTHouse\IoTHouse\obj\Release\netcoreapp2.0\IoTHouse.pdb
+c:\users\lukasz\documents\visual studio 2017\Projects\IoTHouse\IoTHouse\obj\Release\netcoreapp2.0\IoTHouse.csprojResolveAssemblyReference.cache
